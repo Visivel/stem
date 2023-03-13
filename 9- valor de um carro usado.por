@@ -8,6 +8,6 @@ programa {
     leia (km)
 
     valor1=dias*90+km*0.20
-    escreva("esse automÛvel ser· cobrado por ", (Matematica.arredondar(valor1, 3))
+    escreva("esse autom√≥vel ser√° cobrado por ", (Matematica.arredondar(valor1, 3))
   }
 }
